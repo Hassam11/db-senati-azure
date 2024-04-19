@@ -1,0 +1,76 @@
+{
+  "producto": [
+    {
+      "Id": 1,
+      "Descripcion": "Confeccionamos buzos",
+      "Precio": "399.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/06/Buzos-600x600.jpeg"
+    },
+    {
+      "Id": 2,
+      "Descripcion": "Set de 3 sartenes TRAMONTINA",
+      "Precio": "200.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/05/Sartenes-600x400.jpg"
+    },
+    {
+      "Id": 3,
+      "Descripcion": "Gps Tracker Para Vehículo Gps Para Carro",
+      "Precio": "129.90",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2024/04/gps-juliaca.webp"
+    },
+    {
+      "Id": 4,
+      "Descripcion": "Audífonos jbl bluetooth 20 horas dual connect vibe 100 tws negro",
+      "Precio": "179.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/04/Comprame.pe_.png"
+    },
+    {
+      "Id": 5,
+      "Descripcion": "Sillas gerenciales",
+      "Precio": "300.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/04/Silla-foto-principal-600x803.jpeg"
+    },
+    {
+      "Id": 6,
+      "Descripcion": "Zapatillas marca Punto",
+      "Precio": "99.90",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2024/04/Punto-1-600x635.jpeg"
+    },
+    {
+      "Id": 7,
+      "Descripcion": "Mochilas Personalizado",
+      "Precio": "50.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/04/mochila-2.png"
+    },
+    {
+      "Id": 8,
+      "Descripcion": "Maquillaje Matte Velvet SPF 20 The ONE",
+      "Precio": "20.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/04/the-one-base-600x600.jpg"
+    },
+    {
+      "Id": 9,
+      "Descripcion": "Huevos de gallinas del campo.",
+      "Precio": "20.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/08/Huevos-600x482.jpeg"
+    },
+    {
+      "Id": 10,
+      "Descripcion": "Cinta de doble contacto Truper",
+      "Precio": "15.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/04/Cinta-de-doble-contacto-Truper-600x884.jpg"
+    },
+    {
+      "Id": 11,
+      "Descripcion": "LAPTOP DELL LATITUDE 3350",
+      "Precio": "899.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/04/2-I3-600x455.png"
+    },
+    {
+      "Id": 12,
+      "Descripcion": "Calefacción ecologico",
+      "Precio": "350.00",
+      "urlImg": "https://comprame.pe/wp-content/uploads/2023/06/Calefaccion-Ecologica-Juliaca-600x618.jpeg"
+    }
+  ]
+}
